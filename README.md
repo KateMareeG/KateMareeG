@@ -5,6 +5,7 @@ Elected a Fellow of FINSIA in 2013 for establishing systems for international ca
 
 **Network State Research Programme**
 Four frameworks for measuring digital economies — network states, startup societies and digitally-native communities that hold real capital and real populations, but that none of the standard instruments reach. Published April 2026, each openly licensed and DOI-registered.
+
 Framework	  What it measures	                                        DOI
 NSCF v2.1	  Classification against World Bank, UN and WEF taxonomies	10.5281/zenodo.19561980
 NSCRF v1.1	Creditworthiness, from first principles	                  10.5281/zenodo.19562422
