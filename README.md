@@ -22,7 +22,9 @@ Repository → [network-state-research](https://github.com/KateMareeG/network-st
 ## Elsewhere
 
 - ORCID — [0009-0002-1423-7343](https://orcid.org/0009-0002-1423-7343)
+- Professional - [author page](https://www.linkedin.com/in/katemgrey)
 - SSRN — [author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4605961)
 - Writing — [katemgrey.substack.com](https://katemgrey.substack.com), on the economics of AI
+  
 
 MBA, Macquarie University · Graduate Certificate in Blockchain Enabled Business, RMIT · Fellow, Financial Services Institute of Australasia · Formerly SFC Hong Kong licensed (Type 1, 4 and 7, held personally)
