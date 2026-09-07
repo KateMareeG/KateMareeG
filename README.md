@@ -21,8 +21,8 @@ Repository → [network-state-research](https://github.com/KateMareeG/network-st
 
 ## Elsewhere
 
+- LinkedIn - [LinkedIn.com/in/katemgrey](https://www.linkedin.com/in/katemgrey)
 - ORCID — [0009-0002-1423-7343](https://orcid.org/0009-0002-1423-7343)
-- Professional - [author page](https://www.linkedin.com/in/katemgrey)
 - SSRN — [author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4605961)
 - Writing — [katemgrey.substack.com](https://katemgrey.substack.com), on the economics of AI
   
