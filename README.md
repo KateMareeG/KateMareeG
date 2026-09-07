@@ -27,4 +27,4 @@ Repository → [network-state-research](https://github.com/KateMareeG/network-st
 - Writing — [katemgrey.substack.com](https://katemgrey.substack.com), on the economics of AI
   
 
-MBA, Macquarie University · Graduate Certificate in Blockchain Enabled Business, RMIT · Fellow, Financial Services Institute of Australasia · Formerly SFC Hong Kong licensed (Type 1, 4 and 7, held personally)
+MS Finance (Applied), RMIT · MBA, Macquarie University · Graduate Certificate in Blockchain Enabled Business, RMIT · Fellow, Financial Services Institute of Australasia · Formerly SFC Hong Kong licensed (Type 1, 4 and 7, held personally)
